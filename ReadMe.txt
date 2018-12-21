@@ -1,3 +1,10 @@
+----------------Virtual key list-------------------------------
+https://docs.microsoft.com/vi-vn/windows/desktop/inputdev/virtual-key-codes
+----------------RegisterHotKey func----------------------------
+https://docs.microsoft.com/en-us/windows/desktop/api/winuser/nf-winuser-registerhotkey
+-----------------Hotkey source code Owner----------------------
+http://www.cplusplus.com/forum/windows/137836/
+
 ========================================================================
     CONSOLE APPLICATION : pausep Project Overview
 ========================================================================
